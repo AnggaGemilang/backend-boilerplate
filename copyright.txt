@@ -1,0 +1,18 @@
+/*
+ * Copyright PT LEN INNOVATION TECHNOLOGY
+ *
+ * THIS SOFTWARE SOURCE CODE AND ANY EXECUTABLE DERIVED THEREOF ARE PROPRIETARY
+ * TO PT LEN INNOVATION TECHNOLOGY, AS APPLICABLE, AND SHALL NOT BE USED IN ANY WAY
+ * OTHER THAN BEFOREHAND AGREED ON BY PT LEN INNOVATION TECHNOLOGY, NOR BE REPRODUCED
+ * OR DISCLOSED TO THIRD PARTIES WITHOUT PRIOR WRITTEN AUTHORIZATION BY
+ * PT LEN INNOVATION TECHNOLOGY, AS APPLICABLE.
+ */
+
+/*
+ =================================================================================================================
+ Name        : interface_observable.h
+ Author      : Angga Gemilang
+ Version     : 0.1.0 25/02/2025
+ Description : Interface for observable
+ =================================================================================================================
+*/
