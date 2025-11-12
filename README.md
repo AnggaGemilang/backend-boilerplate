@@ -4,11 +4,11 @@ https://github.com/golang-standards/project-layout/tree/master
 ### Boilerplate structure
 
 ```
-├── cmd/
+├── cmd/                        // Entry file
 ├── config/
 │   ├── apisix/
-├── docs/
-├── internal/
+├── docs/                       // Documentation like Swagger, etc
+├── internal/                   // Source code
 │   ├── adapter/
 │   │   ├── adapterinterface/
 │   │   │   ├── common/
