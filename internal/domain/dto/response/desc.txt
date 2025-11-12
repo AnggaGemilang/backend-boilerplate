@@ -1,0 +1,1 @@
+file struktur data yang digunakan untuk mengirim output ke luar sistem

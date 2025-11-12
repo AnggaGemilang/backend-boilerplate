@@ -1,0 +1,1 @@
+file berisi fungsi2 umum yang akan digunakan oleh banyak kasus, bisa dari pengelolaan string, server, atau yang lainnya

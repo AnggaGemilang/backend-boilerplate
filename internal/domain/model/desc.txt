@@ -1,0 +1,1 @@
+file struktur data utama yang merepresentasikan entitas bisnis atau data yang disimpan di database

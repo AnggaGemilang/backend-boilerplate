@@ -1,0 +1,1 @@
+file berisi interface untuk observer pattern

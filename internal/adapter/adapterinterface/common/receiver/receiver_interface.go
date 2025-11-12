@@ -1,4 +1,4 @@
-package commonreceivergateway
+package commonreceiverinterface
 
 type ReceiverInterface interface {
 	Start() error

@@ -1,0 +1,1 @@
+file interface adapter yang tidak terikat ke adapter tertentu, spesifiknya buat transmitter

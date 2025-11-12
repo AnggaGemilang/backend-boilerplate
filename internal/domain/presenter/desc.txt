@@ -1,0 +1,1 @@
+file struktur data yang mengubah data domain (model/dto) menjadi bentuk akhir yang siap dikirim keluar

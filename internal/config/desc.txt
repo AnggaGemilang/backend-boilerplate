@@ -1,0 +1,1 @@
+struktur data config, salah satunya untuk adapter yang perlu parameter lebih dari 3
